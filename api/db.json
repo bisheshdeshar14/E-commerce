@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "a327",
+      "title": "Regular Track ",
+      "description": "Pant for Men",
+      "price": "2500",
+      "category": "Men's wear",
+      "image": "https://m.media-amazon.com/images/I/61zPcMJih7L._AC_SY741_.jpg"
+    },
+    {
+      "id": "b703",
+      "title": "HUBA BASIC T-SHIRT V2",
+      "description": "The HUBA Basic T-shirt is designed for ultimate comfort and everyday wear. Made from premium double yarn 100% cotton fabric, this 235 GSM tee offers a boxy fit, providing a relaxed yet stylish look. Its breathable fabric ensures all-day comfort, making it a wardrobe essential. The minimal screen-printed HUBA logo on the chest adds a subtle touch of branding.",
+      "price": "1700",
+      "category": "Tshirt Unisex",
+      "image": "https://static.wixstatic.com/media/ade5b9_8584398472234f8c8f644f938214ddfc~mv2.jpg/v1/fill/w_925,h_1183,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/file.jpg"
+    },
+    {
+      "id": "425b",
+      "title": "HUBA Waffle Hoodie -Brown",
+      "description": "Stay cozy and stylish with our HUBA Waffle Hoodie, crafted from soft, eco-friendly waffle fabric for maximum comfort. This hoodie is designed for everyday wear, offering a perfect blend of warmth and breathability. Its classic fit allows you to effortlessly dress it up or keep it casual, making it a versatile wardrobe staple.",
+      "price": "3200",
+      "category": "yughuy",
+      "image": "https://static.wixstatic.com/media/563de8_cfc72f79c3e94502886f11d9046379e3~mv2.jpg/v1/fill/w_980,h_980,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/563de8_cfc72f79c3e94502886f11d9046379e3~mv2.jpg"
+    },
+    {
+      "id": "807c",
+      "title": "Titan Quartz Analog Black",
+      "description": "A Titan Analog Watch is a stylish and elegant timepiece known for its precision, durability, and timeless design. Featuring a classic analog display with hour, minute, and second hands, Titan watches are crafted with high-quality materials like stainless steel, leather, and scratch-resistant glass.",
+      "price": "8900",
+      "category": "Women's Watch",
+      "image": "https://www.titannepal.com/cdn/shop/files/2648WM05_f9823f15-432e-4d72-91f4-0c8b0f7ced3b.jpg?v=1730901041&width=2000"
+    },
+    {
+      "id": "0602",
+      "title": "Samba OG Shoes",
+      "description": "If you time travelled back to the 1960s, you'd find pro soccer players wearing adidas Sambas just like these kids' shoes. ",
+      "price": "10000",
+      "category": "Unisex Shoes",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a6a1ecb378204fc6a5a3571b1a3a973e_9366/Samba_OG_Shoes_Kids_White_IE3677_01_00_standard.jpg"
+    },
+    {
+      "id": "ec9a",
+      "title": "Newmew Round Transparent Grey Black Sunglass",
+      "description": "a stylish and functional eyewear piece that elevates your fashion while offering optimal eye protection. The sunglasses feature a durable polycarbonate frame, ensuring a lightweight and sturdy build. The temple material, crafted from TR (thermoplastic rubber), enhances flexibility and comfort during extended wear. The round frame shape adds a classic and timeless touch to your overall look, making it a versatile accessory for various occasions.",
+      "price": "3000",
+      "category": "Men's Glass",
+      "image": "https://www.newmew.com/wp-content/uploads/2023/11/Ns-280278-C1-18-2.png"
+    }
+  ]
+}
